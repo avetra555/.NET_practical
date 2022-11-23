@@ -13,22 +13,22 @@
 
         Console.WriteLine("Addition:");
         int addition = number1 + number2;
-        Console.WriteLine(addition);
+        Console.WriteLine(number1 + "+" + number2 + "=" + addition);
 
         Console.WriteLine("Substraction:");
         int substraction = number1 - number2;
-        Console.WriteLine(substraction);
+        Console.WriteLine(number1 + "-" + number2 + "=" + substraction);
 
         Console.WriteLine("Multiplication:");
         int multiplication = number1 * number2;
-        Console.WriteLine(multiplication);
+        Console.WriteLine(number1 + "*" + number2 + "=" + multiplication);
 
         double num1 = Double.Parse(number1str);
         double num2 = Double.Parse(number2str);
 
         Console.WriteLine("Division:");
         double division = num1 / num2;
-        Console.WriteLine(division);
+        Console.WriteLine(number1 + "/" + number2 + "=" + division);
 
 
 
