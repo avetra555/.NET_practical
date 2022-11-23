@@ -1,0 +1,15 @@
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\bin\Debug\net6.0\Task_calculator_AVetra.exe
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\bin\Debug\net6.0\Task_calculator_AVetra.deps.json
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\bin\Debug\net6.0\Task_calculator_AVetra.runtimeconfig.json
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\bin\Debug\net6.0\Task_calculator_AVetra.dll
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\bin\Debug\net6.0\Task_calculator_AVetra.pdb
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\obj\Debug\net6.0\Task_calculator_AVetra.csproj.AssemblyReference.cache
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\obj\Debug\net6.0\Task_calculator_AVetra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\obj\Debug\net6.0\Task_calculator_AVetra.AssemblyInfoInputs.cache
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\obj\Debug\net6.0\Task_calculator_AVetra.AssemblyInfo.cs
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\obj\Debug\net6.0\Task_calculator_AVetra.csproj.CoreCompileInputs.cache
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\obj\Debug\net6.0\Task_calculator_AVetra.dll
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\obj\Debug\net6.0\refint\Task_calculator_AVetra.dll
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\obj\Debug\net6.0\Task_calculator_AVetra.pdb
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\obj\Debug\net6.0\Task_calculator_AVetra.genruntimeconfig.cache
+C:\Users\Aserh\Desktop\shegoestech\Task_calculator_AVetra\Task_calculator_AVetra\obj\Debug\net6.0\ref\Task_calculator_AVetra.dll
