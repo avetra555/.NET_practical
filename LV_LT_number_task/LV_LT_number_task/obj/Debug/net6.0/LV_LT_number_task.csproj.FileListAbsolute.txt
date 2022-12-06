@@ -1,0 +1,15 @@
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\obj\Debug\net6.0\LV_LT_number_task.csproj.AssemblyReference.cache
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\obj\Debug\net6.0\LV_LT_number_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\obj\Debug\net6.0\LV_LT_number_task.AssemblyInfoInputs.cache
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\obj\Debug\net6.0\LV_LT_number_task.AssemblyInfo.cs
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\obj\Debug\net6.0\LV_LT_number_task.csproj.CoreCompileInputs.cache
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\bin\Debug\net6.0\LV_LT_number_task.exe
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\bin\Debug\net6.0\LV_LT_number_task.deps.json
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\bin\Debug\net6.0\LV_LT_number_task.runtimeconfig.json
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\bin\Debug\net6.0\LV_LT_number_task.dll
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\bin\Debug\net6.0\LV_LT_number_task.pdb
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\obj\Debug\net6.0\LV_LT_number_task.dll
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\obj\Debug\net6.0\refint\LV_LT_number_task.dll
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\obj\Debug\net6.0\LV_LT_number_task.pdb
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\obj\Debug\net6.0\LV_LT_number_task.genruntimeconfig.cache
+C:\Users\Aserh\Desktop\shegoestech\LV_LT_number_task\LV_LT_number_task\obj\Debug\net6.0\ref\LV_LT_number_task.dll

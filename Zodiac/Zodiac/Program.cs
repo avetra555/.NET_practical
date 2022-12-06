@@ -2,8 +2,8 @@
 using System.Text;
 namespace Zodiac;
 
-    class Program
-    {
+class Program
+{
     static void Main(string[] args)
     {
         string dateofbirth;
@@ -31,7 +31,8 @@ namespace Zodiac;
                 if (date.Day <= 20)
                 {
                     char CAPRICORN = '\u2651';
-                    Console.WriteLine("Your zodiac sign is CAPRICORN" + "  " + CAPRICORN); }
+                    Console.WriteLine("Your zodiac sign is CAPRICORN" + "  " + CAPRICORN);
+                }
                 else
                 {
                     Console.WriteLine("Your zodiac sign is AQUARIUS" + " " + '\u2652');
@@ -180,5 +181,5 @@ namespace Zodiac;
 
 
         }
-        }
     }
+}
