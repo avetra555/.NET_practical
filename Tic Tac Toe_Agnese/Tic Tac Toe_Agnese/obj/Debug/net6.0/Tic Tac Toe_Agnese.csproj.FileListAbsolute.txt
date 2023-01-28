@@ -1,0 +1,15 @@
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\bin\Debug\net6.0\Tic Tac Toe_Agnese.exe
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\bin\Debug\net6.0\Tic Tac Toe_Agnese.deps.json
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\bin\Debug\net6.0\Tic Tac Toe_Agnese.runtimeconfig.json
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\bin\Debug\net6.0\Tic Tac Toe_Agnese.dll
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\bin\Debug\net6.0\Tic Tac Toe_Agnese.pdb
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\obj\Debug\net6.0\Tic Tac Toe_Agnese.csproj.AssemblyReference.cache
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\obj\Debug\net6.0\Tic Tac Toe_Agnese.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\obj\Debug\net6.0\Tic Tac Toe_Agnese.AssemblyInfoInputs.cache
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\obj\Debug\net6.0\Tic Tac Toe_Agnese.AssemblyInfo.cs
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\obj\Debug\net6.0\Tic Tac Toe_Agnese.csproj.CoreCompileInputs.cache
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\obj\Debug\net6.0\Tic Tac Toe_Agnese.dll
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\obj\Debug\net6.0\refint\Tic Tac Toe_Agnese.dll
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\obj\Debug\net6.0\Tic Tac Toe_Agnese.pdb
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\obj\Debug\net6.0\Tic Tac Toe_Agnese.genruntimeconfig.cache
+C:\Users\Aserh\Desktop\shegoestech\Tic Tac Toe_Agnese\Tic Tac Toe_Agnese\obj\Debug\net6.0\ref\Tic Tac Toe_Agnese.dll
